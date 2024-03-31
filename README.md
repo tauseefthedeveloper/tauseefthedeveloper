@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="400px" height="310px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 🔭 I’m currently working on frontend<br><br>🌱 I’m currently learning JavaScript,HTML,CSS<br><br>💬 Ask me about Frontend and backend<br><br>📫 How to reach me tauseefbhai85@gmail.com<br><br>⚡ Fun fact 😍
 
 ## 🌐 Socials:
